@@ -4,7 +4,7 @@
   <img 
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR5Yjl1d2g5aW90MWZ4b254bmlhNjU1NTd0aG15a3hucG9xc3hrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif"
     width="850"
-    height="380"
+    height="400"
     style="object-fit: cover;"
   />
 </p>
