@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm EuphoriaBot
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVxMGJxb3M0cWlpb3Qxa2xqc2JlYWc4Y3JtYjAwajU0bncza3pweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="400"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJuYjdjMXJlMW00enJsdjVmY3Axd2dhZTZvcHhlcXowOTlwMWNkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eJLDuGq9AVLQcFMBWL/giphy.gif" width="650"/>
 </p>
 
 A passionate Junior Developer who started the coding journey in 2025
