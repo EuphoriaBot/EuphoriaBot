@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm EuphoriaBot
 
-![CatHello](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVxMGJxb3M0cWlpb3Qxa2xqc2JlYWc4Y3JtYjAwajU0bncza3pweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4nk5bgwpWL6T5Ax9y/giphy.gif)
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXVxMGJxb3M0cWlpb3Qxa2xqc2JlYWc4Y3JtYjAwajU0bncza3pweiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4nk5bgwpWL6T5Ax9y/giphy.gif" width="400"/>
+</p>
 
 A passionate Junior Developer who started the coding journey in 2025
 
