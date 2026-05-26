@@ -5,12 +5,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=435&lines=Junior+Developer;Machine+Learning+%2B+Mobile+Development;Coffee+%2B+Anime+%2B+Game" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Junior+Developer;Machine+Learning+%2B+Mobile+Development;Coffee+%2B+Anime+%2B+Game" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR5Yjl1d2g5aW90MWZ4b254bmlhNjU1NTd0aG15a3hucG9xc3hrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="100%" height="250" style="object-fit: cover;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR5Yjl1d2g5aW90MWZ4b254bmlhNjU1NTd0aG15a3hucG9xc3hrcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="100%" height="400" style="object-fit: cover;" />
 </p>
 
 ---
