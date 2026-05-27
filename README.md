@@ -75,6 +75,8 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EuphoriaBot&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center">
+  <img width="100%" src="https://streak-stats.demolab.com?user=EuphoriaBot&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
