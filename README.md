@@ -4,13 +4,9 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 💻 Tech Stack
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
+### Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -26,7 +22,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-**Frameworks & Library**
+### Frameworks & Library
 
 <p align="left">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -36,7 +32,7 @@
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
-**IDE**
+### IDE
 
 <p align="left">
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
@@ -48,14 +44,14 @@
 
 </p>
 
-**Database**
+### Database
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
 </p>
 
-**Artificial Intelligence**
+### Artificial Intelligence
 
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -64,7 +60,7 @@
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 </p>
 
-**Social**
+### Social
 
 <p align="left">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -75,8 +71,10 @@
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=EuphoriaBot&theme=tokyonight&hide_border=true"/>
-</p>
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img width="100%" src="https://github-readme-stats.shion.dev/api?username=EuphoriaBot&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=EuphoriaBot&theme=midnight-purple&hide_border=false"/>
+  <img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=EuphoriaBot&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
