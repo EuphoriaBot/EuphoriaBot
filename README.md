@@ -70,8 +70,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.shion.dev/api?username=EuphoriaBot&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img width="100%" src="https://streak-stats.demolab.com/?user=EuphoriaBot&theme=midnight-purple&hide_border=false"/>
 </p>
+
 ## 🎮 Play Game With Me
 
 <img src="https://raw.githubusercontent.com/EuphoriaBot/EuphoriaBot/snake-output/snake.svg" alt="Snake animation" />
