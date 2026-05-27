@@ -2,8 +2,6 @@
   <img src="image/github-header-banner.png">
 </h1>
 
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -76,3 +74,7 @@
   <img width="32%" height="150px" src="https://github-readme-stats.shion.dev/api?username=EuphoriaBot&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false"/>
   <img width="32%" height="150px" src="https://streak-stats.demolab.com/?user=EuphoriaBot&theme=midnight-purple&hide_border=false"/>
 </p>
+
+<img src="https://raw.githubusercontent.com/EuphoriaBot/EuphoriaBot/snake-output/snake.svg" alt="Snake animation" />
+
+###
