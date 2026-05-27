@@ -70,7 +70,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com/?user=EuphoriaBot&theme=midnight-purple&hide_border=false"/>
+  <img width="80%" src="https://streak-stats.demolab.com/?user=EuphoriaBot&theme=midnight-purple&hide_border=false"/>
 </p>
 
 ## 🎮 Play Game With Me
