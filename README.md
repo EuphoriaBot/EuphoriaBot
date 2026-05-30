@@ -2,9 +2,23 @@
   <img src="image/github-header-banner.png">
 </h1>
 
-## 💻 Tech Stack
+## 💫 About Me
 
-### Languages
+<img align="right" alt="Arcade" width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR6dDE5dXZicjUyMnN3M3o2dmh6Z2Mxdmlwdzd5bThmd2dzeHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" />
+
+🎓 Computer Science student at **Mulawarman University**
+
+☕ Certified caffeine addict
+
+🎮 Gamer in my spare time
+
+📺 Anime is basically my second language
+
+🗂️ Love to collect random cool things because why not
+
+<h2>💻 Tech Stack </h2>
+
+<h3> Languages </h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -20,7 +34,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### Frameworks & Library
+<h3> Frameworks & Library </h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -30,7 +44,7 @@
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
-### IDE
+<h3> IDE </h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
@@ -42,23 +56,14 @@
 
 </p>
 
-### Database
+<h3> Database </h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
 </p>
 
-### Artificial Intelligence
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
-  <img src="https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-</p>
-
-### Social
+<h3> Social </h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -67,12 +72,12 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </p>
 
-## 📊 GitHub Stats
+<h2> 📊 GitHub Stats </h2>
 
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com/?user=EuphoriaBot&theme=midnight-purple&hide_border=false"/>
 </p>
 
-## 🎮 Play Game With Me
+<h2> 🎮 Play Game With Me </h2>
 
 <img src="https://raw.githubusercontent.com/EuphoriaBot/EuphoriaBot/snake-output/snake.svg" alt="Snake animation" />
