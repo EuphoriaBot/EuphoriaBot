@@ -16,7 +16,7 @@
 
 🗂️ Love to collect random cool things because why not
 
-<br clear="right"/>
+💡 Passionate about **Mobile Development**
 
 <h2>💻 Tech Stack </h2>
 
