@@ -4,9 +4,7 @@
 
 <h2> 💫 About Me </h2>
 
-<img align="right" alt="Arcade" width="380" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR6dDE5dXZicjUyMnN3M3o2dmh6Z2Mxdmlwdzd5bThmd2dzeHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" />
-
-<br>
+<img align="right" alt="Arcade" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR6dDE5dXZicjUyMnN3M3o2dmh6Z2Mxdmlwdzd5bThmd2dzeHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" />
 
 🎓 Computer Science student at **Mulawarman University**
 
@@ -19,10 +17,6 @@
 🗂️ Love to collect random cool things because why not
 
 💡 Passionate about **Mobile Development**
-
-<br>
-
-<br clear="right"/>
 
 <h2>💻 Tech Stack </h2>
 
