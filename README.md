@@ -1,10 +1,9 @@
-<h3 align="center">
+<b align="center">
   <img src="image/github-header-banner (1).png">
-</h3>
+</b>
 
 <h3>💫 About Me</h3>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C05CFF,50:F08FFF,100:8BC5FF&height=2"/>
-<img align="right" alt="Arcade" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR6dDE5dXZicjUyMnN3M3o2dmh6Z2Mxdmlwdzd5bThmd2dzeHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C05CFF,50:F08FFF,100:8BC5FF&height=3&section=header"/>
 
 <img align="right" alt="Arcade" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR6dDE5dXZicjUyMnN3M3o2dmh6Z2Mxdmlwdzd5bThmd2dzeHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" />
 
@@ -20,9 +19,13 @@
 
 💡 Passionate about **Mobile Development**
 
----
+<br clear="right">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C05CFF,50:F08FFF,100:8BC5FF&height=3&section=header"/>
 
 <h3>💻 Tech Stack </h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C05CFF,50:F08FFF,100:8BC5FF&height=3&section=header"/>
 
 <h4> Languages </h4>
 
@@ -80,10 +83,14 @@
 
 <h3> 📊 GitHub Stats </h3>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C05CFF,50:F08FFF,100:8BC5FF&height=3&section=header"/>
+
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com/?user=EuphoriaBot&theme=midnight-purple&hide_border=false"/>
 </p>
 
 <h3> 🎮 Play Game With Me </h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C05CFF,50:F08FFF,100:8BC5FF&height=3&section=header"/>
 
 <img src="https://raw.githubusercontent.com/EuphoriaBot/EuphoriaBot/snake-output/snake.svg" alt="Snake animation" />
