@@ -2,7 +2,9 @@
   <img src="image/github-header-banner (1).png">
 </h1>
 
-<h2> 💫 About Me </h2>
+<p align="left">
+  <span style="font-size:32px;font-weight:bold;">💫 About Me</span>
+</p>
 
 <img align="right" alt="Arcade" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR6dDE5dXZicjUyMnN3M3o2dmh6Z2Mxdmlwdzd5bThmd2dzeHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" />
 
