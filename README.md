@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="image/github-header-banner.png">
+  <img src="image/github-header-banner (1).png">
 </h1>
 
 <h2> 💫 About Me </h2>
