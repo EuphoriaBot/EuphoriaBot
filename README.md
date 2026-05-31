@@ -3,7 +3,7 @@
 </h3>
 
 <h3>💫 About Me</h3>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C05CFF,50:F08FFF,100:8BC5FF&height=3&section=header"/>
 
 <img align="right" alt="Arcade" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR6dDE5dXZicjUyMnN3M3o2dmh6Z2Mxdmlwdzd5bThmd2dzeHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" />
 
