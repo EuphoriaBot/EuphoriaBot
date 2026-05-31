@@ -1,10 +1,9 @@
-<h1 align="center">
+<h3 align="center">
   <img src="image/github-header-banner (1).png">
-</h1>
+</h3>
 
-<p align="left">
-  <span style="font-size:32px;font-weight:bold;">💫 About Me</span>
-</p>
+<h3>💫 About Me</h3>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header"/>
 
 <img align="right" alt="Arcade" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR6dDE5dXZicjUyMnN3M3o2dmh6Z2Mxdmlwdzd5bThmd2dzeHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" />
 
@@ -22,9 +21,9 @@
 
 ---
 
-<h2>💻 Tech Stack </h2>
+<h3>💻 Tech Stack </h3>
 
-<h3> Languages </h3>
+<h4> Languages </h4>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -40,7 +39,7 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
-<h3> Frameworks & Library </h3>
+<h4> Frameworks & Library </h4>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
@@ -50,7 +49,7 @@
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
-<h3> IDE </h3>
+<h4> IDE </h4>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
@@ -62,14 +61,14 @@
 
 </p>
 
-<h3> Database </h3>
+<h4> Database </h4>
 
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/>
 </p>
 
-<h3> Social </h3>
+<h4> Social </h4>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -78,12 +77,12 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </p>
 
-<h2> 📊 GitHub Stats </h2>
+<h3> 📊 GitHub Stats </h3>
 
 <p align="center">
   <img width="80%" src="https://streak-stats.demolab.com/?user=EuphoriaBot&theme=midnight-purple&hide_border=false"/>
 </p>
 
-<h2> 🎮 Play Game With Me </h2>
+<h3> 🎮 Play Game With Me </h3>
 
 <img src="https://raw.githubusercontent.com/EuphoriaBot/EuphoriaBot/snake-output/snake.svg" alt="Snake animation" />
