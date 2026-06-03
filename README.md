@@ -80,14 +80,5 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C05CFF,50:F08FFF,100:8BC5FF&height=3&section=header"/>
 
-<h3> 📊 GitHub Stats </h3>
-
-<p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com/?user=EuphoriaBot&theme=midnight-purple&hide_border=false"/>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C05CFF,50:F08FFF,100:8BC5FF&height=3&section=header"/>
-
 <h3> 🎮 Play Game With Me </h3>
-
 <img src="https://raw.githubusercontent.com/EuphoriaBot/EuphoriaBot/snake-output/snake.svg" alt="Snake animation" />
