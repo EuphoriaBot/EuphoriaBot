@@ -20,7 +20,9 @@
 
 <br clear="right">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C05CFF,50:F08FFF,100:8BC5FF&height=3&section=header"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
 <h3>💻 Tech Stack </h3>
 
@@ -78,7 +80,17 @@
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C05CFF,50:F08FFF,100:8BC5FF&height=3&section=header"/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
 <h3> 🎮 Play Game With Me </h3>
 <img src="https://raw.githubusercontent.com/EuphoriaBot/EuphoriaBot/snake-output/snake.svg" alt="Snake animation" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
