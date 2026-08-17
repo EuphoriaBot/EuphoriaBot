@@ -6,17 +6,17 @@
 
 <img align="right" alt="Arcade" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXR6dDE5dXZicjUyMnN3M3o2dmh6Z2Mxdmlwdzd5bThmd2dzeHd2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" />
 
-🎓 Computer Science student at **Mulawarman University**
+🎓 Computer Science Student at **Mulawarman University**
 
-☕ Certified caffeine addict
+☕ Certified Caffeine Addict
 
-🎮 Gamer in my spare time
+🎮 Gamer in My Spare Time
 
-📺 Anime is basically my second language
+📺 Loves Anime
 
-🗂️ Love to collect random cool things because why not
+🗂️ Likes to Collect Random Cool Things
 
-💡 Passionate about **Mobile Development**
+💡 Passionate About **Mobile Development**
 
 <br clear="right">
 
